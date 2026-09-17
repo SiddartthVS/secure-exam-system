@@ -1,4 +1,4 @@
-# Secure Question Paper Management & Controlled Exam Distribution System
+# Secure Question Paper Distribution
 
 A secure web-based examination platform designed to prevent question paper leakage across regional paper-setting bodies, central examination authorities, and exam distribution centres.
 
