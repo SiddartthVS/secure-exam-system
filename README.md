@@ -1,6 +1,6 @@
 # Secure Question Paper Management & Controlled Exam Distribution System
 
-🔗 **Live Link**:[ https://github.com/SiddartthVS/secure-exam-system](https://secure-exam-system-git-main-siddartth-vs-s-projects.vercel.app/)
+🔗 **Live Link**:[secure-exam-system](https://secure-exam-system-git-main-siddartth-vs-s-projects.vercel.app/)
 
 ---
 
